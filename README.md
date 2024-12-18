@@ -27,7 +27,7 @@ This project is an Airbnb clone built with **Spring Boot**. It replicates key fu
 
 Below is the class diagram that represents the structure of the project:
 
-![Class Diagram](class_diagrame.png)
+![Class Diagram](class_diagram.png)
 
 ---
 
