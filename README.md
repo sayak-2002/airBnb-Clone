@@ -9,9 +9,7 @@ This project is an Airbnb clone built with **Spring Boot**. It replicates key fu
 - User Authentication and Authorization
 - Property Listing and Management
 - Booking System with Real-Time Availability
-- Reviews and Ratings for Properties
 - Search and Filter Options
-- Responsive Design
 
 ---
 
